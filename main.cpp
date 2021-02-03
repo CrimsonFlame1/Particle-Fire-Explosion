@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  SDL Basic
-//
-//  Created by Lee Zheng Jun on 27/12/2020.
-//  Copyright © 2020 Lee Zheng Shieng. All rights reserved.
-//
-
 #include <iostream>
 #include <SDL.h>
 #include <math.h>
