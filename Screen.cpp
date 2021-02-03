@@ -1,11 +1,3 @@
-//
-//  Screen.cpp
-//  SDL Basic
-//
-//  Created by Lee Zheng Jun on 30/12/2020.
-//  Copyright © 2020 Lee Zheng Shieng. All rights reserved.
-//
-
 #include "Screen.hpp"
 
 namespace wind{
