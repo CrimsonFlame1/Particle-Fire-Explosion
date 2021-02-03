@@ -1,11 +1,3 @@
-//
-//  Screen.hpp
-//  SDL Basic
-//
-//  Created by Lee Zheng Jun on 30/12/2020.
-//  Copyright © 2020 Lee Zheng Shieng. All rights reserved.
-//
-
 #ifndef Screen_hpp
 #define Screen_hpp
 
