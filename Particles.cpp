@@ -1,11 +1,3 @@
-//
-//  Particles.cpp
-//  SDL Basic
-//
-//  Created by Lee Zheng Jun on 23/01/2021.
-//  Copyright © 2021 Lee Zheng Shieng. All rights reserved.
-//
-
 #include "Particles.hpp"
 #include <math.h>
 #include <stdlib.h>
